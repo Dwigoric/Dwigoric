@@ -8,8 +8,8 @@ I also accept Discord bot commissions. You can reach out to me by joining Stalwa
 
 <div align="center">
 
-![Dwigoric's GitHub stats](https://github-readme-stats.dwigoric.vercel.app/api?username=Dwigoric&show_icons=true&count_private=true&theme=vue-dark)
+![Dwigoric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwigoric&show_icons=true&count_private=true&theme=vue-dark)
 
-![Dwigoric's Top Languages](https://github-readme-stats.dwigoric.vercel.app/api/top-langs/?username=Dwigoric&langs_count=10&theme=vue-dark&count_private=true&show_icons=true)
+![Dwigoric's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwigoric&langs_count=10&theme=vue-dark&count_private=true&show_icons=true)
 
 </div>
