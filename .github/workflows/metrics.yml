@@ -9,6 +9,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Mask secrets
+        run: |
+          echo "::add-mask::${{ secrets.METRICS_TOKEN }}"
+          echo "::add-mask::${{ secrets.COMMIT_AUTHOR_LIST }}"
+      
       - uses: lowlighter/metrics@latest
         with:
           # GH secret
