@@ -18,7 +18,7 @@ jobs:
           user: Dwigoric
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, base.repositories, base.metadata, base.activity, base.community, introduction, skyline, achievements, languages
+          config_order: base.header, introduction, base.activity+community, base.repositories, achievements, followup, languages
           config_timezone: Asia/Manila
           repositories_affiliations: ""
           repositories_skipped: Dwigoric/Dwigoric
@@ -32,7 +32,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_lines: yes
           plugin_lines_sections: base, repositories
-          plugin_skyline: yes
           plugin_sponsors: yes
           plugin_stars: yes
           plugin_traffic: yes
