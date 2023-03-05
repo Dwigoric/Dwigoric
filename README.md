@@ -8,6 +8,6 @@ I also accept Discord bot commissions. You can reach out to me by joining Stalwa
 
 <div align="center">
 
-![Dwigoric's GitHub metrics](https://raw.githubusercontent.com/Dwigoric/Dwigoric/main/github-metrics.svg)
+![Dwigoric's GitHub metrics](/github-metrics.svg)
 
 </div>
