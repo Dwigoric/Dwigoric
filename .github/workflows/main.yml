@@ -18,16 +18,13 @@ jobs:
           user: Dwigoric
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, skyline, achievements
+          config_order: base.header, base.activity, skyline, achievements, languages
           config_timezone: Asia/Manila
           repositories_affiliations: ""
           repositories_skipped: Dwigoric/Dwigoric
           plugin_introduction: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_repositories: yes
-          plugin_repositories_starred: 3
-          plugin_repositories_affiliations: ""
           plugin_activity: yes
           plugin_habits: yes
           plugin_habits_charts: yes
