@@ -7,7 +7,7 @@ I also accept Discord bot commissions. You can reach out to me by joining Stalwa
 
 
 <div align="center">
-
-![Dwigoric's GitHub metrics](/github-metrics.svg)
-
+  <picture>
+    <img src="/github-metrics.svg" alt="Dwigoric's GitHub metrics">
+  </picture>
 </div>
