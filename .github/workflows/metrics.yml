@@ -24,6 +24,7 @@ jobs:
           repositories_skipped: Dwigoric/Dwigoric
           plugin_introduction: yes
           plugin_followup: yes
+          plugin_followup_sections: user, repositories
           plugin_followup_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
