@@ -18,7 +18,7 @@ jobs:
           user: Dwigoric
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, base.activity, skyline, achievements, languages
+          config_order: base, skyline, achievements, languages
           config_timezone: Asia/Manila
           repositories_affiliations: ""
           repositories_skipped: Dwigoric/Dwigoric
