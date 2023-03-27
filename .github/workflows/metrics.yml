@@ -33,18 +33,18 @@ jobs:
           plugin_followup_indepth: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_activity: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_lines: yes
           plugin_lines_sections: base, repositories
           plugin_sponsors: yes
-          plugin_stars: yes
           plugin_traffic: yes
           
           # Languages
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 1000
           commits_authoring: ${{ secrets.COMMIT_AUTHOR_LIST }}
-          plugin_languages_details: lines
+          plugin_languages_details: percentage, lines
           plugin_languages_sections: recently-used, most-used
