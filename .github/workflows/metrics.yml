@@ -35,7 +35,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_lines: yes
-          plugin_lines_sections: repositories
           plugin_sponsors: yes
           plugin_traffic: yes
           plugin_habits: yes
@@ -46,5 +45,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 183
           plugin_languages_details: percentage, lines
           plugin_languages_sections: recently-used, most-used
