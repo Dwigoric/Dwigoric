@@ -5,6 +5,7 @@ The alias Dwigoric is my online identity. I am currently taking BS Computer Scie
 
 I also accept Discord bot commissions. You can reach out to me by joining Stalwartle's Discord [Support Server](https://discord.gg/KDWGvV8).
 
+<h3 align="center"> 🌠 GitHub Metrics </h3>
 
 <div align="center">
   <picture>
