@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">Visitor count</h3>
-<div align="center">
-  <a href="https://dwigoric.dev">
-    <img src="https://profile-counter.glitch.me/Dwigoric/count.svg" alt="Dwigoric's profile counter" />
-  </a>
-</div>
-
 <h3 align="center">🌠 GitHub Metrics</h3>
 
 <div align="center">
